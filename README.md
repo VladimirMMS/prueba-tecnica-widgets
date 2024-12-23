@@ -10,5 +10,8 @@ Pasos para instalar Dependencias.
 
 4 - Subimos el servidor socket con el comando "node socketServer.js"
 
-5 - Ya con todos estos pasos completados, correr el archivo index.html (puede usar la extension live server para poder ejecutar el index.html)
+5 - Ya con todos estos pasos completados, abrimos los archivos index.html e index2.html y probamos la comunicacion.
+
+![alt text](image.png)
+![alt text](image-1.png)
 
