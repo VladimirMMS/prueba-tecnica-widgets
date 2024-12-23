@@ -6,7 +6,7 @@ Pasos para instalar Dependencias.
 
 2 - Hacemos un npm install, para descargar las dependencias en cada carpeta.
 
-3 - Luego hacemos un "npm run build" de ambos widget para que se generen los archivos a moestar en el index.html
+3 - Luego hacemos un "npm run build" de ambos widget para que se generen los archivos a mostrar en el index.html e index2.html
 
 4 - Subimos el servidor socket con el comando "node socketServer.js"
 
